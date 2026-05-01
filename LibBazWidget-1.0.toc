@@ -2,7 +2,7 @@
 ## Title: Lib: LibBazWidget-1.0
 ## Notes: Standalone widget registry library — publish/subscribe contract between widget publishers and widget hosts
 ## Author: Baz4k
-## Version: 002
+## Version: 003
 ## X-License: GPL v2
 ## Category: Libraries
 ## X-Category: Libraries
