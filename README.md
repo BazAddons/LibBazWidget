@@ -1,6 +1,6 @@
 # LibBazWidget-1.0
 
-[![Part of BazAddons](https://img.shields.io/badge/Part_of-BazAddons-b8924a?labelColor=2a2519)](https://bazaddons.com) [![WoW](https://img.shields.io/badge/WoW-12.0_Midnight-blue)](https://worldofwarcraft.blizzard.com/en-us/midnight) ![License](https://img.shields.io/badge/License-GPL_v2-green) ![Version](https://img.shields.io/github/v/tag/BazAddons/LibBazWidget?label=Version&color=orange)
+[![Part of BazAddons](https://img.shields.io/badge/Part_of-BazAddons-b8924a?labelColor=2a2519)](https://bazaddons.com) [![WoW](https://img.shields.io/badge/WoW-12.0_Midnight-blue)](https://worldofwarcraft.blizzard.com/en-us/midnight) [![License](https://img.shields.io/badge/License-GPL_v2-green)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) [![Version](https://img.shields.io/github/v/tag/BazAddons/LibBazWidget?label=Version&color=orange)](https://github.com/BazAddons/LibBazWidget/releases)
 
 Standalone widget registry library for World of Warcraft addons. Provides a publish/subscribe contract between **widget publishers** (any addon that creates a dockable widget) and **widget consumers** (any addon that hosts/displays widgets).
 
