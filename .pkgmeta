@@ -1,5 +1,9 @@
 package-as: LibBazWidget-1.0
 
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
 externals:
   Libs/LibStub:
     url: https://repos.wowace.com/wow/libstub/trunk
@@ -8,3 +12,4 @@ externals:
 ignore:
   - .github
   - README.md
+  - CHANGELOG.md
